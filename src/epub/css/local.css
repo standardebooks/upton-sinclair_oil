@@ -24,6 +24,10 @@ p span.i1{
 	text-indent: -1em;
 }
 
+#preface{
+	margin-top: 20vh;
+}
+
 .headline{
 	text-align: center;
 }
