@@ -40,43 +40,53 @@
 		<meta property="term" refines="#subject-3">sh2008109127</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008101979</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A wealthy oil tycoon’s son grapples with his father’s unethical business practices and forms alliances with oilfield workers and socialists in Southern California.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;James Arnold Ross Jr., nicknamed Bunny, is the son of a self-made oil millionaire. As he comes of age, Bunny’s sympathies for oilfield workers and socialists often clash with his father and his father’s business partners, forcing him to confront the ethical implications of his family’s wealth and power.&lt;/p&gt;
+			&lt;p&gt;As Bunny witnesses the devastating consequences of his father’s unethical business practices, including accidents and a worker strike, he finds himself torn between loyalty to his family and his burgeoning friendship with an oilfield worker, Paul Watkins. Paul, influenced by his experiences in post-World War I Siberia, becomes a fervent advocate for labor rights and embraces communism. The novel explores the complex dynamics of family, loyalty, and the pursuit of justice in a society driven by oil and power.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/upton-sinclair"&gt;Sinclair’s&lt;/a&gt; narrative satirically critiques the flaws and weaknesses of all the characters, shedding light on the human condition in the face of greed and inequality. The book offers a profound examination of societal issues, delving into themes of corruption, greed, and the struggle for workers’ rights.&lt;/p&gt;
+			&lt;p&gt;Notably, &lt;i&gt;Oil!&lt;/i&gt; loosely inspired the 2007 film &lt;i&gt;There Will Be Blood&lt;/i&gt;, directed by Paul Thomas Anderson and starring Daniel Day Lewis. The novel’s enduring relevance lies in its exploration of the interplay between wealth and morality and its scathing commentary on the oil industry.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70379</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/oil0000upto</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oil!</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/upton-sinclair_oil</meta>
 		<dc:creator id="author">Upton Sinclair</dc:creator>
 		<meta property="file-as" refines="#author">Sinclair, Upton</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Upton_Sinclair</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79127862</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">James Hamilton</dc:contributor>
+		<meta property="file-as" refines="#artist">Hamilton, James</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83301655</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Online Distributed Proofreaders Canada Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Job Curtis</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Curtis, Job</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/jobcurtis</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="writer-of-preface">Upton Sinclair</dc:contributor>
+		<meta property="file-as" refines="#writer-of-preface">Sinclair, Upton</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-preface">https://en.wikipedia.org/wiki/Upton_Sinclair</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-preface">http://id.loc.gov/authorities/names/n79127862</meta>
+		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
