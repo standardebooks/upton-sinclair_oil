@@ -28,18 +28,13 @@ p span.i1{
 	margin-top: 20vh;
 }
 
-.headline{
+.headline > p{
+	font-style: italic;
 	text-align: center;
-}
-
-.headline > *{
 	text-indent: 0;
 }
 
 .headline > p:first-of-type{
+	font-style: normal;
 	font-variant: small-caps;
-}
-
-.headline > p:nth-of-type(2){
-	font-style: italic;
 }
