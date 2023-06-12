@@ -38,3 +38,7 @@ p span.i1{
 	font-style: normal;
 	font-variant: small-caps;
 }
+
+i > [epub|type~="se:name.visual-art.film"]{
+	font-style: normal;
+}
