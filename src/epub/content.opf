@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/upton-sinclair/oil</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-20T00:55:35Z</dc:date>
+		<meta property="dcterms:modified">2023-06-20T00:55:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,18 +41,18 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008101979</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A wealthy oil tycoon’s son grapples with his father’s unethical business practices and forms alliances with oilfield workers and socialists in Southern California.</dc:description>
+		<dc:description id="description">A wealthy oil tycoon’s son grapples with his father’s unethical business practices as he forms alliances with oilfield workers and socialists in Southern California.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;James Arnold Ross Jr., nicknamed Bunny, is the son of a self-made oil millionaire. As he comes of age, Bunny’s sympathies for oilfield workers and socialists often clash with his father and his father’s business partners, forcing him to confront the ethical implications of his family’s wealth and power.&lt;/p&gt;
+			&lt;p&gt;James Arnold Ross Jr., nicknamed “Bunny,” is the son of a self-made oil millionaire. As he comes of age, Bunny’s sympathies for oilfield workers and socialists often clash with his father and his father’s business partners, forcing him to confront the ethical implications of his family’s wealth and power.&lt;/p&gt;
 			&lt;p&gt;As Bunny witnesses the devastating consequences of his father’s unethical business practices, including accidents and a worker strike, he finds himself torn between loyalty to his family and his burgeoning friendship with an oilfield worker, Paul Watkins. Paul, influenced by his experiences in post-World War I Siberia, becomes a fervent advocate for labor rights and embraces communism. The novel explores the complex dynamics of family, loyalty, and the pursuit of justice in a society driven by oil and power.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/upton-sinclair"&gt;Sinclair’s&lt;/a&gt; narrative satirically critiques the flaws and weaknesses of all the characters, shedding light on the human condition in the face of greed and inequality. The book offers a profound examination of societal issues, delving into themes of corruption, greed, and the struggle for workers’ rights.&lt;/p&gt;
-			&lt;p&gt;Notably, &lt;i&gt;Oil!&lt;/i&gt; loosely inspired the 2007 film &lt;i&gt;There Will Be Blood&lt;/i&gt;, directed by Paul Thomas Anderson and starring Daniel Day Lewis. The novel’s enduring relevance lies in its exploration of the interplay between wealth and morality and its scathing commentary on the oil industry.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Oil!&lt;/i&gt; inspired the 2007 film &lt;i&gt;There Will Be Blood&lt;/i&gt;. The novel’s enduring relevance lies in its exploration of the interplay between wealth and morality and its scathing commentary on the oil industry.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70379</dc:source>
 		<dc:source>https://archive.org/details/oil0000upto</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">223151</meta>
+		<meta property="se:reading-ease.flesch">65.15</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oil!</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/upton-sinclair_oil</meta>
 		<dc:creator id="author">Upton Sinclair</dc:creator>
@@ -85,6 +85,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
