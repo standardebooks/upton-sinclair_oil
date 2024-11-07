@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70379</dc:source>
 		<dc:source>https://archive.org/details/oil0000upto</dc:source>
-		<meta property="se:word-count">223150</meta>
+		<meta property="se:word-count">223149</meta>
 		<meta property="se:reading-ease.flesch">65.25</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oil!</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/upton-sinclair_oil</meta>
