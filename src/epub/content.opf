@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008101979</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A wealthy oil tycoon’s son grapples with his father’s unethical business practices as he forms alliances with oilfield workers and socialists in Southern California.</dc:abstract>
+		<meta property="schema:abstract">A wealthy oil tycoon’s son grapples with his father’s unethical business practices as he forms alliances with oilfield workers and socialists in Southern California.</meta>
 		<dc:description>
 			&lt;p&gt;James Arnold Ross Jr., nicknamed “Bunny,” is the son of a self-made oil millionaire. As he comes of age, Bunny’s sympathies for oilfield workers and socialists often clash with his father and his father’s business partners, forcing him to confront the ethical implications of his family’s wealth and power.&lt;/p&gt;
 			&lt;p&gt;As Bunny witnesses the devastating consequences of his father’s unethical business practices, including accidents and a worker strike, he finds himself torn between loyalty to his family and his burgeoning friendship with an oilfield worker, Paul Watkins. Paul, influenced by his experiences in post-World War I Siberia, becomes a fervent advocate for labor rights and embraces communism. The novel explores the complex dynamics of family, loyalty, and the pursuit of justice in a society driven by oil and power.&lt;/p&gt;
