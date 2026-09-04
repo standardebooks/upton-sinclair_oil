@@ -31,9 +31,9 @@
 		<dc:title id="title">Oil!</dc:title>
 		<meta property="file-as" refines="#title">Oil!</meta>
 		<dc:subject id="subject-1">Political fiction</dc:subject>
-		<dc:subject id="subject-2">Motion picture industry -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Petroleum industry and trade -- Fiction</dc:subject>
-		<dc:subject id="subject-4">California, Southern -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Motion picture industry--Fiction</dc:subject>
+		<dc:subject id="subject-3">Petroleum industry and trade--Fiction</dc:subject>
+		<dc:subject id="subject-4">California, Southern--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85104355</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
